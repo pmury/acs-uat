@@ -1,0 +1,3 @@
+cs
+pytest
+git+https://gitlab.cc-asp.fraunhofer.de/fcs-public/apache-cs-extensions.git
