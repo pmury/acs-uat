@@ -1,0 +1,4 @@
+cs
+pytest
+beautifultable
+git+https://gitlab.cc-asp.fraunhofer.de/fcs-public/apache-cs-extensions.git
